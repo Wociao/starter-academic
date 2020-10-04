@@ -17,30 +17,26 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: xf56@scarletmail.rutgers.edu
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Wociao
   - link: https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=E44JoMkAAAAJ
-    icon_pack: ai
+    icon_pack: fab
     icon: google scholar
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD in Computer Engineering "
+      institution: Rutgers University
+      year: ""
+    - course: MS in Computer Application technology
+      institution: Chinese Academy of Sciences
+      year: 2015
+    - course: BSc in Communication Engineering
+      institution: China University of Petroleum
+      year: 2010
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 highlight_name: false
 email: ""
 ---
