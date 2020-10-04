@@ -21,12 +21,12 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - link: https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=E44JoMkAAAAJ
+    icon_pack: ai
+    icon: google scholar
 education:
   courses:
     - course: PhD in Artificial Intelligence
