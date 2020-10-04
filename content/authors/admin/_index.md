@@ -10,8 +10,10 @@ authors:
 bio: My research interests include VR  security of hardware and DNN applications.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - VR video streaming
+  - HCI
+  - Hardware Security
+  - Security of machine learning
 social:
   - icon: envelope
     icon_pack: fas
