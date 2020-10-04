@@ -1,14 +1,13 @@
 ---
+title: Xianglong Feng
+role: Research Assistant & Teaching Assistant
+avatar_filename: unnamed.jpg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Rutgers University
 superuser: true
 authors:
   - admin
-title: Xianglong Feng
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include VR  security of hardware and DNN applications.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
