@@ -1,8 +1,8 @@
 ---
-title: Multimedia security
-summary: An example of using the in-built project page.
+title: Security of multimedia system
+summary: Improving the privacy and security of multimedia system following a bottom-up approach, from the low-level hardware security schematic (e.g. hardware isolation) to the upper-level software algorithm (e.g. machine learning).
 tags:
-- Deep Learning
+- Security, multimedia, hardware, deep learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
