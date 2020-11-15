@@ -1,10 +1,11 @@
 ---
-title: "Viewport prediction for live 360-degree mobile video streaming using user-content hybrid motion tracking"
+title: "Runtime Fault Injection Detection for FPGA-based DNN Execution Using Siamese Path Verification"
 authors:
 - Xianglong Feng
-- Viswanathan Swaminathan
+- Mengmei Ye
+- Ke Xia
 - Sheng Wei
-date: "2019-07-01"
+date: "2021-02-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,14 +18,14 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *UbiComp*
-#publication_short: In *STC*
+publication: In *Design, Automation and Test in Europe *
+#publication_short: In *DATE*
 
 
 
 # Summary. An optional shortened abstract.
 
-360-degree video streaming has been gaining popularities recently with the rapid growth of adopting mobile head mounted display (HMD) devices in the consumer video market, especially for live broadcasts. The 360-degree video streaming introduces brand new bandwidth and latency challenges in live streaming due to the significantly increased video data. However, most of the existing bandwidth saving approaches based on viewport prediction have only focused on the video-on-demand (VOD) use cases leveraging historical user behavior data, which is not available in live broadcasts. We develop a new viewport prediction scheme for live 360-degree video streaming using video content-based motion tracking and dynamic user interest modeling. To obtain real-time performance, we implement the Gaussian mixture model (GMM) and optical flow algorithms for motion detection and feature tracking.
+Deep neural networks (DNNs) have been widely deployed on FPGAs to achieve superior performance, power efficiency, and design flexibility. However, the FPGA-based DNNs are vulnerable to fault injection attacks that aim to compromise the original functionality. To defend against such attacks, the existing methods either duplicate the models and check the consistency of the results at runtime, or strengthen the robustness of the models by adding additional neurons. However, these existing methods could introduce huge processing overhead or require re-training the models. In this paper, we develop a runtime verification method, namely Siamese path verification (SPV), to check the integrity of the DNN models running on FPGAs. By leveraging the computing features of the DNN and carefully designing the weight parameters, we add neurons to check the integrity of the model without impacting the original functionality and, therefore, no re-training of the model is required. We implement the proposed SPV approach on Xilinx Virtex-7 FPGA and evaluate it using the MNIST dataset. The evaluation results show that SPV has superior efficiency with small processing overhead.
 
 tags:
 - Source Themes
@@ -33,8 +34,8 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/3328914
-url_code: 'https://github.com/hwsel/LiveMotion'
+#url_pdf: https://dl.acm.org/doi/pdf/10.1145/3328914
+#url_code: 'https://github.com/hwsel/LiveMotion'
 
 
 # Featured image
@@ -50,7 +51,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- Security
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
