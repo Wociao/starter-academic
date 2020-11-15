@@ -1,14 +1,13 @@
 ---
-title: "Viewport prediction for live 360-degree mobile video streaming using user-content hybrid motion tracking"
+title: "An example conference paper"
 authors:
-- Xianglong Feng
-- Viswanathan Swaminathan
-- Sheng Wei
-date: "2019-07-01"
+- admin
+- Robert Ford
+date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,25 +16,29 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *UbiComp*
-#publication_short: In *STC*
+publication: In *Source Themes Conference*
+publication_short: In *STC*
 
-
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-
-360-degree video streaming has been gaining popularities recently with the rapid growth of adopting mobile head mounted display (HMD) devices in the consumer video market, especially for live broadcasts. The 360-degree video streaming introduces brand new bandwidth and latency challenges in live streaming due to the significantly increased video data. However, most of the existing bandwidth saving approaches based on viewport prediction have only focused on the video-on-demand (VOD) use cases leveraging historical user behavior data, which is not available in live broadcasts. We develop a new viewport prediction scheme for live 360-degree video streaming using video content-based motion tracking and dynamic user interest modeling. To obtain real-time performance, we implement the Gaussian mixture model (GMM) and optical flow algorithms for motion detection and feature tracking.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/3328914
-url_code: 'https://github.com/hwsel/LiveMotion'
-
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -50,7 +53,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- viewport-prediction-in-live-vr-video-streaming
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
