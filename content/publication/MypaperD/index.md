@@ -1,10 +1,11 @@
 ---
-title: "LiveObj: Object Semantics-based Viewport Prediction for Live Mobile Virtual Reality Streaming"
+title: "VA Digital Twin for Reconfigurable Intelligent Surface Assisted Wireless Communication"
 authors:
+- Baoling Sheen
+- Yang Jin
 - Xianglong Feng
-- Zeyang Bao
-- Sheng Wei
-date: "2021-03-12"
+- Moin Chowdhury
+date: "2020-10-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,20 +18,20 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE VR*
+#publication: In *UbiComp*
 #publication_short: In *STC*
 
 
 
 # Summary. An optional shortened abstract.
 
-¡ªReconfigurable Intelligent Surface (RIS) has emerged as one of the key technologies for 6G in recent years, which comprise a large number of low-cost passive elements that can smartly interact with the impinging electromagnetic waves for performance enhancement. However, optimally configuring massive number of RIS elements remains a challenge. In this paper, we present a novel digital-twin framework for RIS-assisted wireless networks which we name
-it Environment-Twin (Env-Twin). The goal of the Env-Twin framework is to enable automation of optimal control at various granularities. In this paper, we present one example of the EnvTwin models to learn the mapping function between the RIS configuration with measured attributes for the receiver location, and the corresponding achievable rate in an RISassisted wireless network without involving explicit channel estimation or beam training overhead. Once learned, our EnvTwin model can be used to predict optimal RIS configuration for any new receiver locations in the same wireless network. 
+
+
 tags:
 - Source Themes
 featured: true
 
-#links:
+links:
 #- name: Custom Link
 #  url: http://example.org
 #url_pdf: https://dl.acm.org/doi/pdf/10.1145/3328914
@@ -49,8 +50,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
-#- internal-project
+projects:
+- AIFor6G
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
