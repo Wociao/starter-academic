@@ -1,5 +1,5 @@
 ---
-title: External Project
+title: AI for next generation wireless communication
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - Demo
