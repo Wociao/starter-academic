@@ -31,8 +31,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+#  url: http://example.org
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3328914
 url_code: 'https://github.com/hwsel/LiveMotion'
 
