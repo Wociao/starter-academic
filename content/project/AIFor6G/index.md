@@ -1,12 +1,12 @@
 ---
 title: AI for next generation wireless communication
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Using AI to solve the complicated parameters estimation of large intelligent surface
 tags:
-- Demo
+- 6G
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: ""
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
