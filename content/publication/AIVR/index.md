@@ -32,7 +32,7 @@ featured: true
 links:
 #- name: Custom Link
  # url: http://example.org
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8942314
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
