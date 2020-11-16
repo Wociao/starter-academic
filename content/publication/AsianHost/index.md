@@ -1,10 +1,10 @@
 ---
-title: "Asianhost: Object Semantics-based Viewport Prediction for Live Mobile Virtual Reality Streaming"
+title: "Runtime Hardware Security Verification Using Approximate Computing: A Case Study on Video Motion Detection"
 authors:
+- Mengmei Ye
 - Xianglong Feng
-- Zeyang Bao
 - Sheng Wei
-date: "2013-07-01T00:00:00Z"
+date: "2019-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *by IEEE Conference on Virtual Reality and 3D User Interfaces*
+publication: In *Asian Hardware Oriented Security and Trust Symposium*
 publication_short: In *VR*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: we develop a novel approximate computing-based approach to achieve a fast and accurate enough repeated execution for security verification. We implement and evaluate the approximate computing-based security verification framework by conducting a case study on a CPU-FPGA based video motion detection system, in which our experiments on Xilinx Zynq SoC justifies the premium security and low performance overhead obtained by the proposed approach.
 
 # Summary. An optional shortened abstract.
-summary: Leveraging object detection and tracking for viewport prediction in live VR video streaming system
+summary: Asian Hardware Oriented Security and Trust Symposium (AsianHOST), December 2019
 
 tags:
 - Source Themes
@@ -32,7 +32,7 @@ featured: true
 links:
 #- name: Custom Link
  # url: http://example.org
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://ieeexplore.ieee.org/document/9006675
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -54,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- viewport-prediction-in-live-vr-video-streaming
+- Security
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
