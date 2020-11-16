@@ -1,14 +1,14 @@
 ---
-title: "Exploring CNN-based Viewport Prediction for Live Virtual Reality Streaming"
+title: "AIVR2020: Object Semantics-based Viewport Prediction for Live Mobile Virtual Reality Streaming"
 authors:
 - Xianglong Feng
 - Zeyang Bao
 - Sheng Wei
-date: "2020-12-05T00:00:00Z"
+date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-05T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,13 +17,13 @@ publishDate: "2020-12-05T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Artificial Intelligence and Virtual Reality*
-publication_short: In *AIVR*
+publication: In *by IEEE Conference on Virtual Reality and 3D User Interfaces*
+publication_short: In *VR*
 
-abstract: Live virtual reality streaming (a.k.a., 360-degree video streaming) is gaining popularity recently with its rapid growth in the consumer market. However, the huge bandwidth required by delivering the 360-degree frames becomes the bottleneck, keeping this application from a wider range of deployment. Research efforts have been carried out to solve the bandwidth problem by predicting the user¡¯s viewport of interest and selectively streaming a part of the whole frame. However, currently most of the viewport prediction approaches cannot address the unique challenges in the live streaming scenario, where there is no historical user or video traces to build the prediction model. In this paper, we explore the opportunity of leveraging convolutional neural network (CNN) to predict the user¡¯s viewport in live streaming by modifying the workflow of the CNN application and the training/testing process. The evaluation results reveal that the CNN-based method could achieve a high prediction accuracy with low bandwidth usage and low timing overhead.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Leveraging online CNN learning for viewport prediction in live VR video streaming system
+summary: Leveraging object detection and tracking for viewport prediction in live VR video streaming system
 
 tags:
 - Source Themes
@@ -32,7 +32,7 @@ featured: true
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8942314
+#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
