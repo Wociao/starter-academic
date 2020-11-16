@@ -1,10 +1,11 @@
 ---
 title: "A Digital Twin for Reconfigurable Intelligent Surface Assisted Wireless Communication"
 authors:
+- Baoling Sheen
+- Yang Jin
 - Xianglong Feng
-- Zeyang Bao
-- Sheng Wei
-date: "2020-12-05T00:00:00Z"
+- Chowdhury Moin
+date: "2020-10-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +24,7 @@ publication_short: In *AIVR*
 abstract: New abustract
 
 # Summary. An optional shortened abstract.
-summary: Leveraging online supervised learning with CNN for viewport prediction in live VR video streaming system
+summary: Using AI to solve the complicated parameters estimation of large intelligent surface.
 
 tags:
 - Source Themes
@@ -32,7 +33,7 @@ featured: true
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://www.computer.org/csdl/proceedings-article/aivr/2019/560400a183/1grOj3Q3Hwc
+url_pdf: https://arxiv.org/ftp/arxiv/papers/2009/2009.00454.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
