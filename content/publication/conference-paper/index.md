@@ -1,8 +1,9 @@
 ---
-title: "An example conference paper"
+title: "LiveObj: Object Semantics-based Viewport Prediction for Live Mobile Virtual Reality Streaming"
 authors:
-- admin
-- Robert Ford
+- Xianglong Feng
+- Zeyang Bao
+- Sheng Wei
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -53,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- viewport-prediction-in-live-vr-video-streaming
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
