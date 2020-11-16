@@ -1,5 +1,5 @@
 ---
-title: "AIVR2020: Object Semantics-based Viewport Prediction for Live Mobile Virtual Reality Streaming"
+title: "Exploring CNN-Based Viewport Prediction for Live Virtual Reality Streaming"
 authors:
 - Xianglong Feng
 - Zeyang Bao
