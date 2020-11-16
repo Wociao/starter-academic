@@ -4,7 +4,7 @@ subtitle: selective streaming + viewport prediction; online video saliency
   detection; human computer interaction.
 date: 2020-10-05T08:10:03.955Z
 summary: We implement LiveMotion, LiveObj, LiveROI and LiveDeep for exploring
-  using video content to prediction the user preference in the runtime.
+  using video content to prediction the user preference in the runtime.d
 draft: false
 featured: false
 authors:
