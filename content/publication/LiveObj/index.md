@@ -23,7 +23,7 @@ publication_short: In *VR*
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Conditional accept in IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+summary: Conditional accept in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), March 2021
 
 tags:
 - Source Themes
