@@ -1,29 +1,31 @@
 ---
-title: "AIfor6G: Object Semantics-based Viewport Prediction for Live Mobile Virtual Reality Streaming"
+title: "A Digital Twin for Reconfigurable Intelligent Surface Assisted Wireless Communication"
 authors:
+- Baoling Sheen
+- Jin Yang
 - Xianglong Feng
-- Zeyang Bao
-- Sheng Wei
-date: "2013-07-01T00:00:00Z"
+- Moin Chowdhury
+date: "2020-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *by IEEE Conference on Virtual Reality and 3D User Interfaces*
-publication_short: In *VR*
+publication: In *arXiv preprint*
+publication_short: In * *
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Reconfigurable Intelligent Surface (RIS) has emerged as one of the key technologies for 6G in recent years, which comprise a large number of low-cost passive elements that can smartly interact with the impinging electromagnetic waves for performance enhancement. However, optimally configuring massive number of RIS elements remains a challenge. In this paper, we present a novel digital-twin framework for RIS-assisted wireless networks which we name it Environment-Twin (Env-Twin). The goal of the Env-Twin framework is to enable automation of optimal control at various granularities. In this paper, we present one example of the EnvTwin models to learn the mapping function between the RIS configuration with measured attributes for the receiver location, and the corresponding achievable rate in an RISassisted wireless network without involving explicit channel estimation or beam training overhead. Once learned, our EnvTwin model can be used to predict optimal RIS configuration for any new receiver locations in the same wireless network. We leveraged deep learning (DL) techniques to build our model
+and studied its performance and robustness. Simulation results demonstrate that the proposed Env-Twin model can recommend near-optimal RIS configurations for test receiver locations which achieved close to an upper bound performance that assumes perfect channel knowledge. Our Env-Twin model was trained using less than 2% of the total receiver locations. This promising result represents great potential of the proposed Env-Twin framework for developing a practical RIS solution where the panel can automatically configure itself without requesting channel state information (CSI) from the wireless network infrastructure.
 
 # Summary. An optional shortened abstract.
-summary: Leveraging object detection and tracking for viewport prediction in live VR video streaming system
+summary: The goal of the Env-Twin framework is to enable automation of optimal control at various granularities.
 
 tags:
 - Source Themes
@@ -32,7 +34,7 @@ featured: true
 links:
 #- name: Custom Link
  # url: http://example.org
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://arxiv.org/ftp/arxiv/papers/2009/2009.00454.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -54,7 +56,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- viewport-prediction-in-live-vr-video-streaming
+- AIFor6G
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
