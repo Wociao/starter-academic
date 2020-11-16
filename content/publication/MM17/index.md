@@ -1,10 +1,11 @@
 ---
-title: "MM17: Object Semantics-based Viewport Prediction for Live Mobile Virtual Reality Streaming"
+title: "Towards the Security of Motion Detection-based Video Surveillance on IoT Devices"
 authors:
 - Xianglong Feng
-- Zeyang Bao
+- Mengmei Ye
+- Viswanathan Swaminathan
 - Sheng Wei
-date: "2013-07-01T00:00:00Z"
+date: "2017-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *by IEEE Conference on Virtual Reality and 3D User Interfaces*
+publication: In *ACM Multimedia Conference - Thematic Workshop*
 publication_short: In *VR*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Leveraging object detection and tracking for viewport prediction in live VR video streaming system
+summary: ACM Multimedia Conference - Thematic Workshop, October 2017
 
 tags:
 - Source Themes
