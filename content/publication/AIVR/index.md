@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: In *IEEE International Conference on Artificial Intelligence and Virtual Reality*
 publication_short: In *AIVR*
 
-abstract: Live virtual reality streaming (a.k.a., 360-degree video streaming) is gaining popularity recently with its rapid growth in the consumer market. However, the huge bandwidth required by delivering the 360-degree frames becomes the bottleneck, keeping this application from a wider range of deployment. Research efforts have been carried out to solve the bandwidth problem by predicting the user¡¯s viewport of interest and selectively streaming a part of the whole frame. However, currently most of the viewport prediction approaches cannot address the unique challenges in the live streaming scenario, where there is no historical user or video traces to build the prediction model. In this paper, we explore the opportunity of leveraging convolutional neural network (CNN) to predict the user¡¯s viewport in live streaming by modifying the workflow of the CNN application and the training/testing process. The evaluation results reveal that the CNN-based method could achieve a high prediction accuracy with low bandwidth usage and low timing overhead.
+abstract: New abustract
 
 # Summary. An optional shortened abstract.
 summary: Leveraging online supervised learning with CNN for viewport prediction in live VR video streaming system
