@@ -1,6 +1,6 @@
 ---
 title: Xianglong Feng
-role: Research Assistant & Teaching Assistant
+role: Ph.D. Student
 avatar_filename: img-0113.jpg
 organizations:
   - name: Rutgers University
