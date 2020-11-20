@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Artificial Intelligence and Virtual Reality*
-publication_short: In *AIVR*
+publication_short: In *arXiv*
 
 abstract: New abustract
 
