@@ -3,7 +3,7 @@
 authors:
 - Baoling Sheen
 - Yang Jin
-##Xianglong Feng
+- Xianglong Feng
 - Chowdhury Moin
 title: "A Digital Twin for Reconfigurable Intelligent Surface Assisted Wireless Communication"
 date: "2020-10-05T00:00:00Z"
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Artificial Intelligence and Virtual Reality*
+publication: In * arXiv*
 publication_short: In *arXiv*
 
 abstract: New abustract
